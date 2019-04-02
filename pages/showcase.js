@@ -20,7 +20,7 @@ const Showcase = () => (
 
         <li className="flex-item3"><a href="showcase/fastoche" ><CardProject img="../static/images/projects/fastoche.png" title="Fastoch€" desc="Une application pour éviter les fins de mois difficiles. Suivez votre budget sans effort en connectant votre compte courant. "   /></a></li>
       </ul>
-    
+
     <style jsx>{`
 
 li {
